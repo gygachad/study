@@ -1,0 +1,5 @@
+#pragma once
+
+#cmakedefine NOT_FILTERED @NOT_FILTERED@
+
+#cmakedefine FILTERED @FILTERED@
